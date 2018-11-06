@@ -1,5 +1,5 @@
 <?php
 
-namespace Guzzle\Common\Exception;
+namespace Kaleyra\Common\Exception;
 
 class BadMethodCallException extends \BadMethodCallException implements GuzzleException {}

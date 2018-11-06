@@ -1,6 +1,6 @@
 <?php
 
-namespace Guzzle\Common;
+namespace Kaleyra\Common;
 
 /**
  * Guzzle version information

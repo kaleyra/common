@@ -1,9 +1,9 @@
 <?php
 
-namespace Guzzle\Common;
+namespace Kaleyra\Common;
 
-use Guzzle\Common\Exception\InvalidArgumentException;
-use Guzzle\Common\Exception\RuntimeException;
+use Kaleyra\Common\Exception\InvalidArgumentException;
+use Kaleyra\Common\Exception\RuntimeException;
 
 /**
  * Key value pair collection object

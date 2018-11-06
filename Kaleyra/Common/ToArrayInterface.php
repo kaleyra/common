@@ -1,6 +1,6 @@
 <?php
 
-namespace Guzzle\Common;
+namespace Kaleyra\Common;
 
 /**
  * An object that can be represented as an array

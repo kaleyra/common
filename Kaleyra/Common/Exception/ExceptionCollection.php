@@ -1,6 +1,6 @@
 <?php
 
-namespace Guzzle\Common\Exception;
+namespace Kaleyra\Common\Exception;
 
 /**
  * Collection of exceptions

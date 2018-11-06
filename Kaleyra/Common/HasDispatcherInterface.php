@@ -1,6 +1,6 @@
 <?php
 
-namespace Guzzle\Common;
+namespace Kaleyra\Common;
 
 use Symfony\Component\EventDispatcher\EventDispatcherInterface;
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;
