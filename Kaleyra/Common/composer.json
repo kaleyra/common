@@ -12,7 +12,7 @@
     "target-dir": "Kaleyra/Common",
     "extra": {
         "branch-alias": {
-            "dev-master": "dev-master#c4c8902a7e83a763851128fe5c51b269592ebd5c"
+            "dev-master": "dev-master#3087b33eba15c65cc7089f0a88802208ade264f4"
         }
     }
 }
