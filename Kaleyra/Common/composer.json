@@ -7,7 +7,7 @@
         "symfony/event-dispatcher": ">=2.1"
     },
     "autoload": {
-        "psr-4": { "Kaleyra\\Common": "" }
+        "psr-4": { "Kaleyra\\Common": "kaleyra/common/Kaleyra/Common/" }
     },
     "target-dir": "kaleyra/common/Kaleyra/Common",
     "extra": {
