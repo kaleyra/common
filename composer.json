@@ -9,7 +9,6 @@
     "autoload": {
         "psr-4": { "Kaleyra\\Common": "/" }
     },
-    "target-dir": "Kaleyra/Common",
     "extra": {
         "branch-alias": {
             "dev-master": "HEAD"
